@@ -1,6 +1,7 @@
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+#seaborn 
 sns.set_theme(style="ticks", color_codes=True)
 titanic=sns.load_dataset("titanic")
 
